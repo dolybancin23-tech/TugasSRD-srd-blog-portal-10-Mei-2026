@@ -1,11 +1,8 @@
 # SRD Blog Portal - Fullstack Application
 
-Aplikasi Portal Blog Digital terintegrasi penuh (*Full-stack Integration*) yang dibangun menggunakan kombinasi Next.js di sisi frontend dan Express.js di sisi backend untuk memenuhi kriteria penugasan seleksi KOMATIK UGM. Proyek ini dikelola secara rapi dalam satu repositori induk (Monorepo).
+Aplikasi Portal Blog Digital terintegrasi penuh (*Full-stack Integration*) yang dibangun menggunakan kombinasi Next.js di sisi frontend dan Express.js di sisi backend untuk memenuhi penugasan meski banyak kekurangan. Proyek ini dikelola secara rapi dalam satu repositori induk (Monorepo).
 
 ---
-
-## 🏗️ Kepatuhan Arsitektur & Fitur Utama
-
 ### 1. Frontend (Next.js)
 - Component-Based Architecture: Memisahkan antarmuka menjadi komponen modular yang dapat digunakan kembali secara bersih (seperti komponen CardArtikel).
 - Dynamic Routing: Memanfaatkan fitur App Router untuk navigasi halaman detail artikel berbasis ID dinamis (/artikel/[id]).
