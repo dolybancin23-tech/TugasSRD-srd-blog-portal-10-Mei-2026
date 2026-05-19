@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+.next/
+
+# Environment Variables
+.env
+.env.local
+
+# Local Database (SQLite)
+*.db
+*.db-journal
+
+# OS cache
+Thumbs.db
+.DS_Store
